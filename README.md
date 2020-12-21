@@ -2,6 +2,7 @@
 VTK iOS Android
 
 开发环境：macOS。
+
 需要装的各种东西：CMake,libXt,mesa，以及安装这几个需要的其他依赖，看报什么警告和错误，缺什么装什么。
 
 ## Android
